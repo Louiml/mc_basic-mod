@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="loui_basic"
+version="0.0.1"
+displayName="loui basic"
+credits="i will kill you if you are delete my credit"
+displayURL="https://louiml.net"
+authors="louiml.net"
+
+[[dependencies.loui_basic]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
